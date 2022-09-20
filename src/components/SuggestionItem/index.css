@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.List2 {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+.Arrow {
+  width: 40px;
+}
+.Para {
+  font-size: 20px;
+  color: #475569;
+}
